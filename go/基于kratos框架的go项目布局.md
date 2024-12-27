@@ -1,3 +1,6 @@
+参考学习文章——
+https://go-kratos.dev/blog/go-project-layout
+
 kratos中一个典型的go项目布局
 application
 |____api
